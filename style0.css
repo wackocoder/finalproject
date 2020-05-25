@@ -1,0 +1,82 @@
+header{
+    background-size: 100vh 100vh;
+    background-repeat: no repeat;
+    background-color: ghostwhite;
+    border-radius: 20%;
+   padding: 2%;
+
+}
+body{
+    background-color: darkslateblue;
+    background-image: url("/storage/emulated/0/DCIM/Camera/SAVE_20200524_223327.jpg");
+    width:650px;
+    height: 1155px;
+    padding: 2%;   
+}
+h1{
+    color:darkblue;
+    text-align: center;
+}
+nav{
+    background-size: 100vh 100vh;
+    background-repeat: no repeat;
+    background-color: lightblue;
+    border-radius:5%;
+    padding: 4%;
+}
+nav a{
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 90%;
+    display: inline;
+    margin:1%;	
+    padding: 1.5% 7% 1.5% 7%;
+    border-radius: 25%;
+    text-decoration: none;
+}
+.	left{
+    background-color: mintcream;
+    
+    text-align: center;
+    text-decoration-style: solid;
+    
+    }
+p.aboutus{
+    background-color: dimgray;
+     border-radius: 2%;
+    margin:auto;
+    text-align: justify;
+    padding: 3%;
+}
+p.cen{
+    text-align: center;
+    color:aliceblue;
+}
+
+aside {
+  width: 20%;
+    height: 100vh;
+  padding-right: 15px;
+  margin-left: 15px;
+  float: left;
+  font-style: italic;
+  background-color: lightgray;
+    display: inline-block;
+   
+}
+button{
+    border-radius: 5%;
+    background-color: dimgrey;
+    text-decoration-color: aliceblue;
+    text-align: center;
+    color:azure;
+    float:right;
+    display: inline-block;
+    }
+ul.song{
+    color: mintcream;
+    display: inline-block;
+   }
+audio{
+    padding: 2px;
+    color:midnightblue;
